@@ -1,5 +1,5 @@
 # diffur-methods
-Runge–Kutta method of order 4
+Runge–Kutta method of order 4.
 
 First function was made for equations, in which second derivative of function depends on this function.
 
